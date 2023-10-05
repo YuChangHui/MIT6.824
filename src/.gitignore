@@ -1,5 +1,6 @@
 *.*/
 main/mr-tmp/
+main/mr-out*
 mrtmp.*
 824-mrinput-*.txt
 /main/diff.out
